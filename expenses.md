@@ -6,7 +6,8 @@
 700 gas tr,
 220 water,
 1900 furniture,
-3000 ptcl
+3000 ptcl,
+1000 fuel-chevy
 
 
 
