@@ -1,2 +1,3 @@
 sqoop export --connect jdbc:mysql://localhost/loudacre --username root --table accounts --export-dir xxw161130/loudacre
+#Check 10 rows of content on table ‘webpage’ without importing the table
 sqoop eval --connect jdbc:mysql://localhost/loudacre --username root --query “SELECT * FROM webpage LIMIT 10”
