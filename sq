@@ -1,1 +1,2 @@
 sqoop export --connect jdbc:mysql://localhost/loudacre --username root --table accounts --export-dir xxw161130/loudacre
+sqoop eval --connect jdbc:mysql://localhost/loudacre --username root --query “SELECT * FROM webpage LIMIT 10”
