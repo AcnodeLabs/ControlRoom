@@ -1,3 +1,15 @@
+
+
+// Cmfc4App message handlers
+
+void GetText(CWnd* cwnd , char* buff, int nBuff) {
+	cwnd->GetWindowTextW((LPTSTR)buff, nBuff);
+	
+}
+void SetText(CWnd* cwnd , char* buff) {
+	SetWindowTextW(cwnd->m_hWnd, (LPCWSTR) buff);
+}
+
 #define IDD_INPUTFILEDIALOG         701
 #define IDC_FILENAME                702
 #define IDCONVERT                   703
