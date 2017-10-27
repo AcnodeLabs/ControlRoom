@@ -6,3 +6,7 @@
 5.0 hrs (wl/ File Ini debugging) 22 Oct 17 - Uncharged
 
 Total Hrs:=25 @ 10 USD per Hr 250$
+
+4.5hrs 10:30-3:00 am (Resolution of Def.txt , User Setting MCS pkt_len_n_css parsing for def.txt) 28 Oct 17 - 4hrs NOT CHARGED
+4.0hrs 8:30-12:30 am (wl commands pkt_len, mcs binding to output, crash debugging) - 1hr NOT Charged (3.0 hrs Uncharged)
+
