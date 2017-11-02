@@ -13,7 +13,7 @@ Total Hrs:=25 @ 10 USD per Hr 250$
 2.0hrs 11:30-1:30 pm 30 Oct 17 (txpwrindex command, error correction, refactoring) (2.0 hrs uncharged) 
 2.0hrs 8:45-10:45 pm 31 Oct 17(Send 11ax Test Buttons, wl cmd pktwnd command corrections) 2.0 hrs uncharged
 3.5hrs 9:00pm-12:30am 1st Nov 17(OFDMA function merge New/ Old 11ax Test Start/Stop Tests) 3.5 hrs uncharges
-
+2.0hrs 9-11 2nd (powedb variable pickup ) correct total
 Total Hrs:19.5hrs @ 195$
 5 Hrs Credit 50$ DISCOUNT from Last Bill
 Due 145$
