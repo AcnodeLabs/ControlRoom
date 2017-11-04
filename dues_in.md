@@ -16,6 +16,10 @@ Total Hrs:=25 @ 10 USD per Hr 250$
 2.0hrs 9-11 2nd (powedb variable pickup  2.0 hrs uncharges
 4.5hrs 8:45pm-1:15am (m2lib, new commands ,review of existing codes, plan etc) 4.0 hrs uncharges
 
-Total Hrs:25.5hrs @ 255$
+Total Hrs:25.5hrs @ 280$
 5 Hrs Credit 50$ DISCOUNT from Last Bill
-Due 205$
+Due 230$ Paid
+
+
+4 Oct17 3.5 Hrs 9:00 PM-12:30 ((m2lib, new commands ,review of existing codes, plan etc) 3.5 hrs uncharges
+
