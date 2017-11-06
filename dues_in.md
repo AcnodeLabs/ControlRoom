@@ -20,6 +20,7 @@ Total Hrs:25.5hrs @ 280$
 5 Hrs Credit 50$ DISCOUNT from Last Bill
 Due 230$ Paid
 
-Total of Below(80$)
+Total of Below(12*13=156)
 4 Oct17 3.5 Hrs 9:00 PM-12:30 ((m2lib, new commands ,review of existing codes, plan etc) 3.5 hrs uncharges
 5 Oct17 4.5 Hrs 9:00 PM-01:30 (5g rate command, & pkteng 0x mcs,ncs commands) 4.5 hrs uncharged
+6 Oct17 4.0 Hrs 9:30 PM-01:30 (Shifting of code to SetDUT) 4.0 hrs uncharged
