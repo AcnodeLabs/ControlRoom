@@ -20,7 +20,7 @@ Total Hrs:25.5hrs @ 280$
 5 Hrs Credit 50$ DISCOUNT from Last Bill
 Due 230$ Paid
 
-Total of Below(28.25*13=367.25)
+Total of Below(30.25*13=393.25)
 4 Nov17 3.5 Hrs 9:00 PM-12:30 ((m2lib, new commands ,review of existing codes, plan etc) 3.5 hrs uncharges
 5 nov17 4.5 Hrs 9:00 PM-01:30 (5g rate command, & pkteng 0x mcs,ncs commands) 4.5 hrs uncharged
 6 Nov17 4.0 Hrs 9:30 PM-01:30 (Shifting of code to SetDUT) 4.0 hrs uncharged
@@ -29,3 +29,4 @@ Total of Below(28.25*13=367.25)
 8 Nov17 2 hrs 9.0 am -11 am (correction 37 users, code improvement, crash debug) 2.0 hrs Uncharged
 8 Nov17 3.5hrs  8:40-12:10 (debug,study.plan,discuss) 3.5 hrs
 11 Nov17 3.5hrs  9:20-12:20 (compile errors, and debug settings issue) 3.0 hrs
+11 Nov17 2.0hrs 10:00 pm-12:00AM (version control mfgc code study/ derive of old cmd/ summary/notes) 2.0 hrs
