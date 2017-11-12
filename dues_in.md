@@ -30,3 +30,6 @@ Total of Below(30.25*13=393.25)
 8 Nov17 3.5hrs  8:40-12:10 (debug,study.plan,discuss) 3.5 hrs
 11 Nov17 3.5hrs  9:20-12:20 (compile errors, and debug settings issue) 3.0 hrs
 11 Nov17 2.0hrs 10:00 pm-12:00AM (version control mfgc code study/ derive of old cmd/ summary/notes) 2.0 hrs
+
+============
+12Nov 9PM-1AM (Pakcaging, part of impl one new command in m2lib) 4.0 hrs
