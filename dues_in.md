@@ -35,3 +35,5 @@ Total of Below(30.25*13=393.25)
 12Nov 9PM-1AM (Pakcaging, part of impl one new command in m2lib) 4.0 hrs
 14Nov 9:19-12:22 (dl_ul issue, study mfgclib script, issue of tx mode dimming) 3.0 hrs
 15Nov 9:00- 11:15      (issue of long lines 1009.csv, release build) 2.25 hrs
+16Nov 9:00-11:15PM (try compile release version, svn diff) 2.25 hrs
+18Nov 9:00AM>
