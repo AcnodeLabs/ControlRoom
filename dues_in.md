@@ -31,10 +31,13 @@ Total of Below(30.25*13=393.25)
 11 Nov17 3.5hrs  9:20-12:20 (compile errors, and debug settings issue) 3.0 hrs
 11 Nov17 2.0hrs 10:00 pm-12:00AM (version control mfgc code study/ derive of old cmd/ summary/notes) 2.0 hrs
 
-============
+============13.25 hrs = 172.25$
 12Nov 9PM-1AM (Pakcaging, part of impl one new command in m2lib) 4.0 hrs
 14Nov 9:19-12:22 (dl_ul issue, study mfgclib script, issue of tx mode dimming) 3.0 hrs
 15Nov 9:00- 11:15      (issue of long lines 1009.csv, release build) 2.25 hrs
 16Nov 9:00-11:15PM (try compile release version, svn diff) 2.25 hrs
 18Nov 9:15PM-11:00 (study m2lib, document old method) 1.75 hrs
 20Nov 9:00AM-
+
+
+TOTAL : Nov 565 (till 18 Nov), Prospective Ada=159, T.J = 26 ====>  
