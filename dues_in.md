@@ -31,7 +31,7 @@ Total of Below(30.25*13=393.25)
 11 Nov17 3.5hrs  9:20-12:20 (compile errors, and debug settings issue) 3.0 hrs
 11 Nov17 2.0hrs 10:00 pm-12:00AM (version control mfgc code study/ derive of old cmd/ summary/notes) 2.0 hrs
 
-============25.75 hrs = 334.75$
+============29.5 hrs = 383.$
 12Nov 9PM-1AM (Pakcaging, part of impl one new command in m2lib) 4.0 hrs
 14Nov 9:19-12:22 (dl_ul issue, study mfgclib script, issue of tx mode dimming) 3.0 hrs
 15Nov 9:00- 11:15      (issue of long lines 1009.csv, release build) 2.25 hrs
@@ -41,6 +41,6 @@ Total of Below(30.25*13=393.25)
 21Nov 9:15AM-13:30 (study old implement new in m2lib , wlNewFeature) (4.0 hrs)
 21Nov 10:15PM-12:15 (new cmd from m2lib pkt_eng numuser) (2.0 hrs)
 23Nov 9:15AM-13:30 less 15 min (m2lib wl pkeng ofdmaparam in m2lib, wl mpc, ppt) (4h)
-25Nov Sat 9:AM
-
+25Nov Sat 9:15AM-13:30 less 30 min (new func in m2lib,.....)  (3.75h)
+25Nov Sat 9:PM
 TOTAL : Nov 565 (till 18 Nov), Prospective Ada=159, T.J = 26 ====>  
