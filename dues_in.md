@@ -44,3 +44,8 @@ Total of Below(30.25*13=393.25)
 25Nov Sat 9:15AM-13:30 less 30 min (new func in m2lib,.....)  (3.75h)
 25Nov Sat 9:PM-12:45PM less 15 min (old test and new test setting in m2lib/mtool) 3.5 hrs
 
+======== 
+27Nov Mon 9:45- (questions/code review/improvement,init toggle)
+
+
+
