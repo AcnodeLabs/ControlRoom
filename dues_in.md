@@ -45,7 +45,7 @@ Total of Below(30.25*13=393.25)
 25Nov Sat 9:PM-12:45PM less 15 min (old test and new test setting in m2lib/mtool) 3.5 hrs
 
 ======== 
-27Nov Mon 9:45- (questions/code review/improvement,init toggle)
+27Nov Mon 9:45-1:1:15 (questions/code review/improvement,Ofdma_test refactor) 3h
 
 
 
