@@ -1,4 +1,5 @@
 
+
 4.5 hrs (FlowChart Slide 1 - wl commands) 15 Oct 17 - Uncharged
 4.0 hrs (Merge Functions in MAIN (Was To be Redone Again)) 16 Oct 17 - Uncharged
 4.0 hrs (Merging of Fucntion Case No Processing in MAIN, File Selection Dialog) 17 Oct 17 - Uncharged
@@ -48,6 +49,6 @@ Total of Below(30.25*13=393.25)
 ======== 7hr = 91usd 
 27Nov Mon 9:45-1:1:15 (questions/code review/improvement,Ofdma_test refactor) 3h
 28Nov Tue 9:00-1300 (toggle init/de-init/ main body new test) 4h 
-
+29Nov Wed 9:00-
 
 
