@@ -49,6 +49,7 @@ Total of Below(30.25*13=393.25)
 ======== 7hr = 91usd 
 27Nov Mon 9:45-1:1:15 (questions/code review/improvement,Ofdma_test refactor) 3h
 28Nov Tue 9:00-1300 (toggle init/de-init/ main body new test) 4h 
-29Nov Wed 9:00-
+29Nov Wed 9:00-1330 (new test in m2lib) 3.25h
+29Nov Wed 9:15-1am (new test in m2lib,vector data correction, pkteng commands)
 
 
