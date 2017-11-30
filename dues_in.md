@@ -1,4 +1,4 @@
-1
+2 Dec 1
 
 4.5 hrs (FlowChart Slide 1 - wl commands) 15 Oct 17 - Uncharged
 4.0 hrs (Merge Functions in MAIN (Was To be Redone Again)) 16 Oct 17 - Uncharged
@@ -53,4 +53,4 @@ Total of Below(30.25*13=393.25)
 29Nov Wed 9:15-2:15am (vector data correction, pkteng commands,pwrindex etc complete main test) 4.75h
 30Nov Thu 10:30-1AM (commenting,bug remoal, chanspec,band_A_B,2g rate) 2.5hrs
 
-
+2 Dec Sat 9AM
