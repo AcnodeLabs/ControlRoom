@@ -1,4 +1,4 @@
-
+1
 
 4.5 hrs (FlowChart Slide 1 - wl commands) 15 Oct 17 - Uncharged
 4.0 hrs (Merge Functions in MAIN (Was To be Redone Again)) 16 Oct 17 - Uncharged
@@ -46,11 +46,11 @@ Total of Below(30.25*13=393.25)
 25Nov Sat 9:15AM-13:30 less 30 min (new func in m2lib,.....)  (3.75h)
 25Nov Sat 9:PM-12:45PM less 15 min (old test and new test setting in m2lib/mtool) 3.5 hrs
 
-======== 15hr = 195usd 
+======== 17.5hr = 227.5 
 27Nov Mon 9:45-1:1:15 (questions/code review/improvement,Ofdma_test refactor) 3h
 28Nov Tue 9:00-1300 (toggle init/de-init/ main body new test) 4h 
 29Nov Wed 9:00-1330 (new test in m2lib) 3.25h
 29Nov Wed 9:15-2:15am (vector data correction, pkteng commands,pwrindex etc complete main test) 4.75h
-30Nov Thu 9PM-
+30Nov Thu 10:30-1AM (commenting,bug remoal, chanspec,band_A_B,2g rate) 2.5hrs
 
 
