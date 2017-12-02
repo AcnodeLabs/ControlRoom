@@ -53,4 +53,6 @@ Total of Below(30.25*13=393.25)
 29Nov Wed 9:15-2:15am (vector data correction, pkteng commands,pwrindex etc complete main test) 4.75h
 30Nov Thu 10:30-1AM (commenting,bug remoal, chanspec,band_A_B,2g rate) 2.5hrs
 
-2 Dec Sat 9AM
+======== 3.25hr
+2 Dec Sat 9:15AM-12:30 (-e command issue, MessageBox, CDD mode, NAnt bug) 3.25 h
+4 Dec Mon 9:AM
