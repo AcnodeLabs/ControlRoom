@@ -54,5 +54,5 @@ Total of Below(30.25*13=393.25)
 30Nov Thu 10:30-1AM (commenting,bug remoal, chanspec,band_A_B,2g rate) 2.5hrs
 2 Dec Sat 9:15AM-12:30 (-e command issue, MessageBox, CDD mode, NAnt bug) 3.25 h
 
-============
-4 Dec Mon 9:AM
+============ 2.5h =
+4 Dec Mon 9:PM-11:30PM (new command/ wpa/ study henss) 2.5h
