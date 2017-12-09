@@ -1,3 +1,15 @@
+============ 2.5h =
+4 Dec Mon 9:PM-11:30PM (new command/ wpa/ study henss) 2.5h
+12 Dec Sat 9AM-12AP less 15 min (Together, SequenceDiagram HENSS learn) 2.75 hrs
+13 Dec Sun 9PM- (learn HENSS)
+
+
+
+
+
+
+
+======================================================================================================History
 2 Dec 1
 
 4.5 hrs (FlowChart Slide 1 - wl commands) 15 Oct 17 - Uncharged
@@ -54,5 +66,4 @@ Total of Below(30.25*13=393.25)
 30Nov Thu 10:30-1AM (commenting,bug remoal, chanspec,band_A_B,2g rate) 2.5hrs
 2 Dec Sat 9:15AM-12:30 (-e command issue, MessageBox, CDD mode, NAnt bug) 3.25 h
 
-============ 2.5h =
-4 Dec Mon 9:PM-11:30PM (new command/ wpa/ study henss) 2.5h
+
