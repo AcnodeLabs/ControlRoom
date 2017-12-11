@@ -2,7 +2,8 @@
 4 Dec Mon 9:PM-11:30PM (new command/ wpa/ study henss) 2.5h
 10 Dec Sat 9AM-12AP less 15 min (Together, SequenceDiagram HENSS learn) 2.75 hrs
 12 Dec Sun 9PM-12:45 (learn HENSS, sequence diagram) 3.75 hrs
-13 Dec Mon 9AM () 3.75 hrs
+13 Dec Mon 9AM (henss, study, pkteng framelen new) 4.75 hrs
+13 Dec Tue 9AM
 
 ======================================================================================================History
 2 Dec 1
