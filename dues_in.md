@@ -1,10 +1,11 @@
-============ 18h =
+123============ 21.45h =
 4 Dec Mon 9:PM-11:30PM (new command/ wpa/ study henss) 2.5h
 10 Dec Sat 9AM-12AP less 15 min (Together, SequenceDiagram HENSS learn) 2.75 hrs
 10 Dec Sun 9PM-12:45 (learn HENSS, sequence diagram) 3.75 hrs
 11 Dec Mon 9AM (henss, study, pkteng framelen new) 4.75 hrs
 12 Dec Tue 9AM-13:45 (new method main test body in wlapi,manual.cpp,drop ofdma_test) 4:30
-13 Dec Wed 10AM=
+13 Dec Wed 10AM=1345 (merge PowerTable./TxRxCheck/) 3:45
+13 thPM
 
 ======================================================================================================History
 2 Dec 1
