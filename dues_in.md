@@ -6,7 +6,8 @@
 12 Dec Tue 9AM-13:45 (new method main test body in wlapi,manual.cpp,drop ofdma_test) 4:30
 13 Dec Wed 10AM=1345 (merge PowerTable./TxRxCheck/ConvertCase) 3:45
 13 thPM 10PM-12PM (remove INputFileName2,CDefault,) 2:00
-14th 9AM
+14th 9AM-1:45 (remove oldFiles, openfiledialog issue) 4.75hrs less 15 min = 4:30 hrs
+16th 9AM OFN.CheckFileExists = false
 
 ======================================================================================================History
 2 Dec 1
