@@ -1,4 +1,4 @@
-============ 29.55h =
+1============ 29.55h =
 4 Dec Mon 9:PM-11:30PM (new command/ wpa/ study henss) 2.5h
 10 Dec Sat 9AM-12AP less 15 min (Together, SequenceDiagram HENSS learn) 2.75 hrs
 10 Dec Sun 9PM-12:45 (learn HENSS, sequence diagram) 3.75 hrs
@@ -9,7 +9,7 @@
 14th 9AM-1:45 (remove oldFiles, openfiledialog issue) 4.75hrs less 15 min = 4:30 hrs
 16th 9:45-12:30AM (SelectInputFile Function, ini file issue) 2.75hrs
 17th 9-15-1230 (CurrentDirectory) 3hrs 
-18th 9am
+18th 10am
 ======================================================================================================History
 2 Dec 1
 
