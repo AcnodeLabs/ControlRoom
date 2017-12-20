@@ -1,4 +1,5 @@
--131============ 33h =
+
+============ 37h =
 4 Dec Mon 9:PM-11:30PM (new command/ wpa/ study henss) 2.5h
 10 Dec Sat 9AM-12AP less 15 min (Together, SequenceDiagram HENSS learn) 2.75 hrs
 10 Dec Sun 9PM-12:45 (learn HENSS, sequence diagram) 3.75 hrs
@@ -10,6 +11,8 @@
 16th 9:45-12:30AM (SelectInputFile Function, ini file issue) 2.75hrs
 17th 9-15-1230 (CurrentDirectory) 3hrs 
 18th 10am-1345 (less 15 min, Correct log/ ini file in default dir), 3.5 hrs
+20th 9AM-14:15 (less 15 min, LPT issue), 4h 
+21st Thursday 9AM
 ======================================================================================================History
 2 Dec 1
 
