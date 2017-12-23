@@ -1,6 +1,7 @@
  
-21st Thursday 9AM-14:00 hrs 5hrs
-22st Fri PM (email
+21st Thursday 9AM-14:00 hrs (pwrindex,LPT) 5hrs
+23rd AM 9:15-13:15 (networking issue, putty OK) 4hrs
+9PM sun PM 12_24_2017 GMT+5?
  
  
 ============ 37h =480 USD SENT
