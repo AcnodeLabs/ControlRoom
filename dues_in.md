@@ -1,9 +1,10 @@
  
-13.25=
+15.5=
 21st Thursday 9AM-14:00 hrs (pwrindex,LPT) 5hrs
 23rd AM 9:15-13:15 (networking issue, putty OK) 4hrs
 9PM sun PM 12_24_2017 GMT+5 (codecleanup, txpwr log10,rel ver,ofdmadiscuss)4.25h
-9PM Monday (mFGC OFDMA like refactor)
+9PM Monday (SVN Diff Review Board study) 2.25h
+9PM Tuesday (mFGC OFDMA like refactor)
  
  
 ============ 37h =480 USD SENT
