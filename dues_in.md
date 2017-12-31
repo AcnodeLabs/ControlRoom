@@ -1,5 +1,7 @@
- 
-25.25=
+9AM 1/1/18 
+
+
+28.75=
 21st Thursday 9AM-14:00 hrs (pwrindex,LPT) 5hrs
 23rd AM 9:15-13:15 (networking issue, putty OK) 4hrs
 9PM sun PM 12_24_2017 GMT+5 (codecleanup, txpwr log10,rel ver,ofdmadiscuss)4.25h
@@ -7,7 +9,7 @@
 10:15PM-01:15AM Tuesday (IPADDR Fix, new commands), 3h
 9PM Wed (update ofdmaParam.cc/h, release build, dut err) 4hrs less 30min 3.5h
 9PM Sat (new DUT, netmask, issue, trace mac log code) 3.25h
-9AM Sunday
+9PM Sunday (golden dut, error socket) 9:15-12:45 3.5h9
  
  
 ============ 37h =480 USD SENT
