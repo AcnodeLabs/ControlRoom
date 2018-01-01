@@ -1,4 +1,4 @@
-9AM 1/1/18 
+10-3AM 1/1/18 (less 30 min) (HENSS/OFDMA Mix) 4.5h 
 
 
 28.75=
