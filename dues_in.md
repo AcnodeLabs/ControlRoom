@@ -1,4 +1,6 @@
+9AM Tue
 10-3.25cAM 1/1/18 (less 30 min) (HENSS/OFDMA Mix) 4.75h 
+======================================NEW YEAR
 
 28.75=
 21st Thursday 9AM-14:00 hrs (pwrindex,LPT) 5hrs
