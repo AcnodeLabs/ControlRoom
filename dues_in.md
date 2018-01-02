@@ -1,8 +1,9 @@
-9AM Tue
+9PM-
+9:15-11:30AM (less 15 min, chanspec issue)Tue 2/1/2018, 2.5h
 10-3.25cAM 1/1/18 (less 30 min) (HENSS/OFDMA Mix) 4.75h 
 ======================================NEW YEAR
 
-28.75=
+28.75=373.75$ USD Send
 21st Thursday 9AM-14:00 hrs (pwrindex,LPT) 5hrs
 23rd AM 9:15-13:15 (networking issue, putty OK) 4hrs
 9PM sun PM 12_24_2017 GMT+5 (codecleanup, txpwr log10,rel ver,ofdmadiscuss)4.25h
