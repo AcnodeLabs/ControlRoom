@@ -1,4 +1,5 @@
-9PM-
+10AM-1PM (bw issue, coldrun) , 3h
+9PM-11PM (update OnBandwidth ) , 2h
 9:15-11:30AM (less 15 min, chanspec issue)Tue 2/1/2018, 2.5h
 10-3.25cAM 1/1/18 (less 30 min) (HENSS/OFDMA Mix) 4.75h 
 ======================================NEW YEAR
