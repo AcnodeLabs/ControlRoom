@@ -1,4 +1,5 @@
-10PM Wed 030118
+15.75h
+10PM-1AM Wed 030118 (bw filter, verify mod list) 3h
 10AM-1:50PM (bw issue, coldrun) les 20 min, 3.5h
 9PM-11PM (update OnBandwidth ) , 2h
 9:15-11:30AM (less 15 min, chanspec issue)Tue 2/1/2018, 2.5h
