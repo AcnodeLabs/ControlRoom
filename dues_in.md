@@ -1,5 +1,5 @@
 
-15.75h
+19.25h
 10PM 04012018 (formal init, wlSetChannel) 3.5h
 10PM-1AM Wed 030118 (bw filter, verify mod list) 3h
 10AM-1:50PM (bw issue, coldrun) les 20 min, 3.5h
