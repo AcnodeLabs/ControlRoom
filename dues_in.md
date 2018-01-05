@@ -1,6 +1,7 @@
 
-19.25h
-10PM Fri 1_5_2018 GMT+5
+22.5h (292$=
+10AM Sat 1_6_2018 ()
+10PM Fri 1_5_2018 GMT+5 (setChannel(TEST_INFO*t), bandB_BW40 condition, 3.25h
 10PM 04012018 (formal init, wlSetChannel) 3.5h
 10PM-1AM Wed 030118 (bw filter, verify mod list) 3h
 10AM-1:50PM (bw issue, coldrun) les 20 min, 3.5h
