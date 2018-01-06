@@ -1,6 +1,8 @@
 
-22.5h (292$=
-10AM Sat 1_6_2018 ()
+
+26.25h (341$=
+9AM Mon 1-8-2018 GMT+5 >
+11AM Sat 1_6_2018 (packetIFS issue) 4h less 15 min = 3.75h
 10PM Fri 1_5_2018 GMT+5 (setChannel(TEST_INFO*t), bandB_BW40 condition, 3.25h
 10PM 04012018 (formal init, wlSetChannel) 3.5h
 10PM-1AM Wed 030118 (bw filter, verify mod list) 3h
