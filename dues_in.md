@@ -1,6 +1,6 @@
 
-37.25h (341$=
-10AM-1PM 1-9-18 (IP Conflict Issue), 3h
+37.75h (341$=
+10AM-1:23PM 1-9-18 (IP Conflict Issue, pkteng), 3.5h less 10 min = 3.25h
 10PM-1:30AM Tue 1-8-18 (Brix PC, Mtool tests) , 3.5h
 9AM-1:30 Mon 1-8-2018 GMT+5,less 15 min (Issue crash on HENSS) =4.15h
 11AM Sat 1_6_2018 (packetIFS issue) 4h less 15 min = 3.75h
