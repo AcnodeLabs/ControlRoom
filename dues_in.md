@@ -1,5 +1,6 @@
 
-37.75h (341$=
+42.25h (549.25$
+9AM-1:20PM 1-9-18 (BU PC. AP DUT Delay problem), 4.5h less 15 min = 4.25h
 10AM-1:23PM 1-9-18 (IP Conflict Issue, pkteng), 3.5h less 10 min = 3.25h
 10PM-1:30AM Tue 1-8-18 (Brix PC, Mtool tests) , 3.5h
 9AM-1:30 Mon 1-8-2018 GMT+5,less 15 min (Issue crash on HENSS) =4.15h
