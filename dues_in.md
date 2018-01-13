@@ -1,6 +1,7 @@
 
-45.5h (591.5$)(65479Rs)
-9AM 1-13-18
+9AM Mon 1-15-2018 GMT+5?
+49.5h (643.5$)(70785Rs)
+9PM-1:20AM 1-13-18 (start/stop/dim/-q 0) less 20 min = 4h
 8PM Thursday 1-11-2018 (Delay issue, Release Build)3h less 15 min = 2.75h
 9AM-2PM 1-9-18 (BU PC. AP DUT Delay problem), 5.0h less 15 min = 4.75h
 10AM-1:23PM 1-9-18 (IP Conflict Issue, pkteng), 3.5h less 10 min = 3.25h
