@@ -1,5 +1,6 @@
 
 9AM Mon 1-15-2018 GMT+5?
+================================================================================invoived jan18-1.rtf
 49.5h (643.5$)(70785Rs)
 9PM-1:20AM 1-13-18 (start/stop/dim/-q 0) less 20 min = 4h
 8PM Thursday 1-11-2018 (Delay issue, Release Build)3h less 15 min = 2.75h
