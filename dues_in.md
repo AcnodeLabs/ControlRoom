@@ -1,5 +1,7 @@
 
-9AM Mon 1-15-2018 GMT+5?
+3h (39$) 4200Rs
+9AM Tuesday 1-16-2018>
+9:15AM-12:15AM Mon 1-15-2018 GMT+5 (RT Mtool discuss/plan) - 3h
 ================================================================================invoived jan18-1.rtf
 49.5h (643.5$)(70785Rs)
 9PM-1:20AM 1-13-18 (start/stop/dim/-q 0) less 20 min = 4h
