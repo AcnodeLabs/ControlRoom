@@ -1,6 +1,7 @@
-
-3h (39$) 4200Rs
-9AM Tuesday 1-16-2018>
+ 
+10.75hrs ($139.75)
+9AM-1PM 4h (txpwr commands, diomming,CCDSISO lookup) less 15min = 3.75hr
+9AM-1:30PM Tuesday 1-16-2018 (Dimming Issue) less 30 min - 4h
 9:15AM-12:15AM Mon 1-15-2018 GMT+5 (RT Mtool discuss/plan) - 3h
 ================================================================================invoived jan18-1.rtf
 49.5h (643.5$)(70785Rs)
