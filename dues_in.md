@@ -1,5 +1,6 @@
- 
-10.75hrs ($139.75)
+
+10.75hrs ($139.75) [Monthly progressing 632+140=770=77+7=84k
+9AM Thursday 1_18_2018 GMT+5
 9AM-1PM 4h (txpwr commands, diomming,CCDSISO lookup) less 15min = 3.75hr
 9AM-1:30PM Tuesday 1-16-2018 (Dimming Issue) less 30 min - 4h
 9:15AM-12:15AM Mon 1-15-2018 GMT+5 (RT Mtool discuss/plan) - 3h
