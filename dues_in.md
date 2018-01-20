@@ -1,6 +1,7 @@
 
-14.75hrs ($191.75) [Monthly progressing 632+191=823=82.3+8.23=90.5k
-9AM Sat 1_20_2018 GMT+5
+18.75hrs ($243.75) [Monthly progressing 632+191=823=82.3+8.23=90.5k
+9AM Mon 1_22_2018 GMT+5
+9AM Sat 1_20_2018 GMT+5 (Banwdidth/CaseNoList, svn diff) less 15 min (4h)
 9AM-1:15PM Thursday 1_18_2018 GMT+5 (Dim Ant/AntSel/UpdateData/FormalTxpwr), less 15 min = 4h
 9AM-1PM 4h (txpwr commands, diomming,CCDSISO lookup) less 15min = 3.75hr
 9AM-1:30PM Tuesday 1-16-2018 (Dimming Issue) less 30 min - 4h
