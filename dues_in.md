@@ -1,6 +1,7 @@
 
-18.75hrs ($243.75) [Monthly progressing 632+191=823=82.3+8.23=90.5k
-9AM Mon 1_22_2018 GMT+5
+22.75hrs ($295.75) [Monthly progressing 632+295.75=823=101k
+9AM Wednesday 1_23_2018 ()
+9AM Mon 1_22_2018 GMT+5 (HENSS default problem, BaseBW 2040 issue), 4.25 less 15min (4h)
 9AM Sat 1_20_2018 GMT+5 (Banwdidth/CaseNoList, svn diff) less 15 min (4h)
 9AM-1:15PM Thursday 1_18_2018 GMT+5 (Dim Ant/AntSel/UpdateData/FormalTxpwr), less 15 min = 4h
 9AM-1PM 4h (txpwr commands, diomming,CCDSISO lookup) less 15min = 3.75hr
