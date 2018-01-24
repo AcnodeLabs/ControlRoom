@@ -1,6 +1,7 @@
 
-22.75hrs ($295.75) [Monthly progressing 632+295.75=823=101k
-9AM Wednesday 1_23_2018 ()
+27hrs ($351) [Monthly progressing 632+=983=108k
+9PM Wednesday 1_23_2018 ()
+9AM-1:45 Wednesday 1_23_2018 (dim all/revert/msgbox) 4.75 less 30min (4.25h)
 9AM Mon 1_22_2018 GMT+5 (HENSS default problem, BaseBW 2040 issue), 4.25 less 15min (4h)
 9AM Sat 1_20_2018 GMT+5 (Banwdidth/CaseNoList, svn diff) less 15 min (4h)
 9AM-1:15PM Thursday 1_18_2018 GMT+5 (Dim Ant/AntSel/UpdateData/FormalTxpwr), less 15 min = 4h
