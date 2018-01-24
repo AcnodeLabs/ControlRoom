@@ -1,6 +1,8 @@
 
-27hrs ($351) [Monthly progressing 632+=983=108k
-9PM Wednesday 1_23_2018 ()
+
+29.5hrs ($383.5) [Monthly progressing 632+=1015=111k
+10PM 2h, Thursday 1_25_2018 
+9:15-12PM Wednesday 1_23_2018 (svn,2040 BwForChanspec less 15min) (2.5h)
 9AM-1:45 Wednesday 1_23_2018 (dim all/revert/msgbox) 4.75 less 30min (4.25h)
 9AM Mon 1_22_2018 GMT+5 (HENSS default problem, BaseBW 2040 issue), 4.25 less 15min (4h)
 9AM Sat 1_20_2018 GMT+5 (Banwdidth/CaseNoList, svn diff) less 15 min (4h)
