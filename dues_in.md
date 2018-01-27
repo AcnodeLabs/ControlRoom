@@ -1,6 +1,7 @@
 
 
 32.5hrs ($422) [Monthly progressing 632+=1054=117k
+10AM   Saturday 1 27 (
 10PM-1AM 2h, Thursday 1_25_2018 (svn diff) 3h
 9:15-12PM Wednesday 1_23_2018 (svn,2040 BwForChanspec less 15min) (2.5h)
 9AM-1:45 Wednesday 1_23_2018 (dim all/revert/msgbox) 4.75 less 30min (4.25h)
