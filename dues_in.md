@@ -1,7 +1,7 @@
 
 
-35.25hrs ($458.25) [Monthly progressing 632+=1090=119k
-9AM Monday 1_29
+37.75hrs ($503.75) [Monthly progressing 632+=1135.75=125k
+9AM-12:45 Monday 1_29 (droplist,offset issue,UPDATE_CASE_LIST) less 15 min 3.5h
 10AM-1AM)   Saturday 1 27 (bad mode,buff)less 15 min 2.75h
 10PM-1AM 2h, Thursday 1_25_2018 (svn diff) 3h
 9:15-12PM Wednesday 1_23_2018 (svn,2040 BwForChanspec less 15min) (2.5h)
