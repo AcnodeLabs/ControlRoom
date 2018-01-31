@@ -1,6 +1,7 @@
-
-
-37.75hrs ($503.75) [Monthly progressing 632+=1135.75=125k
+Thursday 1st Feb 9AM
+======================================================
+42.25hrs ($549.25) [Monthly progressing 632+=1181.25=125k <<<<<<<<<<< SEND INVOICE
+9AM-13:45 Wed less 15 min 4.75h (reviewer comments on diff,SendWlCmd etc) (4.5hr)
 9AM-12:45 Monday 1_29 (droplist,offset issue,UPDATE_CASE_LIST) less 15 min 3.5h
 10AM-1AM)   Saturday 1 27 (bad mode,buff)less 15 min 2.75h
 10PM-1AM 2h, Thursday 1_25_2018 (svn diff) 3h
