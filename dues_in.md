@@ -1,4 +1,5 @@
-Thursday 1st Feb 9AM
+9PM 1st Feb
+Thursday 1st Feb 9AM-1:15 (svn cleanup) 4.25 hrs less 15 min (4h)
 ======================================================
 42.25hrs ($549.25) [Monthly progressing 632+=1181.25=125k <<<<<<<<<<< SEND INVOICE
 9AM-13:45 Wed less 15 min 4.75h (reviewer comments on diff,SendWlCmd etc) (4.5hr)
