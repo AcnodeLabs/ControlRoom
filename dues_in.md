@@ -1,4 +1,5 @@
-9AM 2/3
+9PM
+9:15AM-1:PM 2/3/18 (setBWCpltf,setChannel,setRate,RB), less 15 min (3.5h)
 9:15PM-1:30 2/2/18 (kiff issue,review points) 4.25 less 15 min= (4h)
 9PM-1:45 1st Feb (m_isOfdma) less 11-1130 (4.75-0.5)=(4.25h)
 Thursday 1st Feb 9AM-1:15 (svn cleanup) 4.25 hrs less 15 min (4h)
