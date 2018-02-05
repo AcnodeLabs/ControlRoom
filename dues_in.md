@@ -1,6 +1,7 @@
 
-25.25h
-:30AM Mon 2-5-2018 GMT+5
+27.75h
+9AM Tuesday 2-6-18
+9:30AM-12 Mon 2-5-2018 GMT+5 (loop issue,rb points), 2.5h
 9PM-1AM sun 2/4 (crash issue join CCK) 4h
 9PM-2:25PM (driver crash trace:join cmd) 5.25 hrs less 15 min (5h)
 9:15AM-1:PM 2/3/18 (setBWCpltf,setChannel,setRate,RB),  (4h)
