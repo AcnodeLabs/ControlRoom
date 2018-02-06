@@ -1,6 +1,7 @@
 
-27.75h
-9AM Tuesday 2-6-18
+30h=390~42k
+9Am- wed 2-7-18
+9:15-1145 Tuesday 2-6-18 (make release bw40)less 15m, 2.25 h
 9:30AM-12 Mon 2-5-2018 GMT+5 (loop issue,rb points), 2.5h
 9PM-1AM sun 2/4 (crash issue join CCK) 4h
 9PM-2:25PM (driver crash trace:join cmd) 5.25 hrs less 15 min (5h)
