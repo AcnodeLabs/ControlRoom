@@ -1,6 +1,7 @@
 
-30h=390~42k
-9Am- wed 2-7-18
+32h=390~42k
+9PM 2/7/18
+10-12AP 2/7/18 (svn diff) , 2h
 9:15-1145 Tuesday 2-6-18 (make release bw40)less 15m, 2.25 h
 9:30AM-12 Mon 2-5-2018 GMT+5 (loop issue,rb points), 2.5h
 9PM-1AM sun 2/4 (crash issue join CCK) 4h
