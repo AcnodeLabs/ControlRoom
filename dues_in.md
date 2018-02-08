@@ -1,9 +1,10 @@
 
-35h=390~42k
-9am (2/8/18)
+37.5h=487~53.625k
+Monday 9AM (2/12/18) =====
+9:15-11:40 am (2/8/18) (discuss, henss crash issue), (2.5h)
 9:15-12:30PM 2/7/18 (diff, henss), less 15min , (3h)
 10-12AP 2/7/18 (svn diff) , 2h
-9:15-1145 Tuesday 2-6-18 (make release bw40)less 15m, 2.25 h
+9:15-1145 Tuesday 2-6-18 (make release bw40)less 15m, 2.25 h- (=30h)
 9:30AM-12 Mon 2-5-2018 GMT+5 (loop issue,rb points), 2.5h
 9PM-1AM sun 2/4 (crash issue join CCK) 4h
 9PM-2:25PM (driver crash trace:join cmd) 5.25 hrs less 15 min (5h)
