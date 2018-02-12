@@ -1,6 +1,7 @@
 
-37.5h=487~53.625k
-Monday 9AM (2/12/18) =====
+41.5h=539~59k
+Wed 9PM Tuesday
+Monday 9:30AM-1:45 (2/12/18) (ant antSel new slide) less 15 min, 4h
 9:15-11:40 am (2/8/18) (discuss, henss crash issue), (2.5h)
 9:15-12:30PM 2/7/18 (diff, henss), less 15min , (3h)
 10-12AP 2/7/18 (svn diff) , 2h
