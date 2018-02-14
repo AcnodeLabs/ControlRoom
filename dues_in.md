@@ -1,6 +1,7 @@
 
-44h=572=63269k
-Wed 9AM
+48h=624=68953k
+Thu 9Am-
+Wed 9AM-1:15 (3/14/18) (txcore study code), 4h
 Tue 9:15-11:45 Tuesday (3/12/18) (Ant/AntSel, Discuss PPT), 2.5h
 Monday 9:30AM-1:45 (2/12/18) (ant antSel new slide) less 15 min, 4h
 9:15-11:40 am (2/8/18) (discuss, henss crash issue), (2.5h)
