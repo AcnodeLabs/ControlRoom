@@ -1,6 +1,7 @@
 
-54.25=705=78953k
-Fri 9PM
+58.25=757.25=83297
+SAT 9PM
+Fri 9PM-1:30AM (3/16/18) (caseBox Filter), less 15, 4h
 Fri 9:20-11:35 (3/16/18) (txcore ppt), 2.25
 Thu 9Am-1:15 (3/15/18) (txcore coding txCoreOverrides), 4h
 Wed 9AM-1:15 (3/14/18) (txcore study code), 4h
