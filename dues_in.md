@@ -1,6 +1,8 @@
 
-48h=624=68953k
-Thu 9Am-
+54.25=705=78953k
+Fri 9PM
+Fri 9:20-11:35 (3/16/18) (txcore ppt), 2.25
+Thu 9Am-1:15 (3/15/18) (txcore coding txCoreOverrides), 4h
 Wed 9AM-1:15 (3/14/18) (txcore study code), 4h
 Tue 9:15-11:45 Tuesday (3/12/18) (Ant/AntSel, Discuss PPT), 2.5h
 Monday 9:30AM-1:45 (2/12/18) (ant antSel new slide) less 15 min, 4h
