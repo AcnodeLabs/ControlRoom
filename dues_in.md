@@ -1,6 +1,7 @@
 
-58.25=757.25=83297
-SAT 9PM
+61.5=799=88
+9AM Mon 2-19-2018 GMT+5
+SAT 10:30PM-1:50 (3/17/18) (STF mode), less 5, 3.25h
 Fri 9PM-1:30AM (3/16/18) (caseBox Filter), less 15, 4h
 Fri 9:20-11:35 (3/16/18) (txcore ppt), 2.25
 Thu 9Am-1:15 (3/15/18) (txcore coding txCoreOverrides), 4h
