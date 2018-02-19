@@ -1,6 +1,7 @@
 
-61.5=799=88
-9AM Mon 2-19-2018 GMT+5
+64=832=91.5
+9PM Mon 2-19-18 ()
+9AM Mon 2-19-2018 GMT+5 (STF mode bOFDMA), 2.5h
 SAT 10:30PM-1:50 (3/17/18) (STF mode), less 5, 3.25h
 Fri 9PM-1:30AM (3/16/18) (caseBox Filter), less 15, 4h
 Fri 9:20-11:35 (3/16/18) (txcore ppt), 2.25
