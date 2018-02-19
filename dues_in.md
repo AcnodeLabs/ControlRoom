@@ -1,6 +1,7 @@
 
-13=
-9PM Mon 2-19-18 ()
+17=221
+9AM Tuesday 2-20-2018 ()
+9:05PM-1:15 Mon 2-19-18 () less 10min, 4h
 9AM Mon 2-19-2018 GMT+5 (STF mode bOFDMA), 2.5h
 SAT 10:30PM-1:50 (3/17/18) (STF mode), less 5, 3.25h
 Fri 9PM-1:30AM (3/16/18) (caseBox Filter), less 15, 4h
