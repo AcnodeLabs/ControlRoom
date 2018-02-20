@@ -1,6 +1,7 @@
 
-21.5=279.5
-9PM Tue 2-20-18 ()
+24.5=318.5=35k [Mo=318.5+754]=1072
+9PM Wed 2_21_2018 GMT+5
+9PM-12:45 Tue 2-20-18 (msgbox remove,pre-command,cpltf), less 30min, 3h
 9AM-1AM Tuesday 2-20-2018 (less 30 min), 3.5h
 9:05PM-1:15 Mon 2-19-18 () less 10min, 4h
 9AM Mon 2-19-2018 GMT+5 (STF mode bOFDMA), 2.5h
