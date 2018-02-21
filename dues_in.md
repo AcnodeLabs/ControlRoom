@@ -1,14 +1,17 @@
 
+Continue https://docs.google.com/spreadsheets/d/1fbhdK4eOZAo-r-DXnp5sRQrkdDMk4RI06zijsJ2ti3o/edit?usp=sharing
+
 25=318.5=35k [Mo=318.5+754]=1072
 9AM Thu 2_22
 9PM-11:30 Wed 2_21_2018 GMT+5 (hex2int,Ant/AntSel txchain), 2.5h
 9PM-12:45 Tue 2-20-18 (msgbox remove,pre-command,cpltf), less 30min, 3h
 9AM-1AM Tuesday 2-20-2018 (less 30 min), 3.5h
 9:05PM-1:15 Mon 2-19-18 () less 10min, 4h
-9AM Mon 2-19-2018 GMT+5 (STF mode bOFDMA), 2.5h
+9AM9:00 Mon 2-19-2018 GMT+5 (STF mode bOFDMA), 2.5h
 SAT 10:30PM-1:50 (3/17/18) (STF mode), less 5, 3.25h
 Fri 9PM-1:30AM (3/16/18) (caseBox Filter), less 15, 4h
 Fri 9:20-11:35 (3/16/18) (txcore ppt), 2.25
+Continue https://docs.google.com/spreadsheets/d/1fbhdK4eOZAo-r-DXnp5sRQrkdDMk4RI06zijsJ2ti3o/edit?usp=sharing
 58h=754$===============================================================
 Thu 9Am-1:15 (3/15/18) (txcore coding txCoreOverrides), 4h
 Wed 9AM-1:15 (3/14/18) (txcore study code), 4h
